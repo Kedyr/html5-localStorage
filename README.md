@@ -8,7 +8,7 @@ What HMTL5 local storage offers
 	</ul>
 It uses named key/value pairs when storing data. All stored items are in string format. In the code below I used the JSON.stringify method of json2 method to convert all items before storage.
 
-<h2>How to<h2>
+<h2>How to</h2>
 It can be called in any of your pages like illustrated below. <br/> <a href="http://kedyr.wordpress.com/2012/09/27/multi-page-apps-and-amd-with-requirejs-backbonejs/">Check ou my artical on AMD, requirejs and Model loading.</a> 
 ```javascript
 <script type="text/javascript">
